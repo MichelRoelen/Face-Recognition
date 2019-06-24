@@ -96,7 +96,7 @@ brfv4Example.start = function() {
 
 		// example to load on startup, others can be chosen via the example chooser GUI.
 
-		"js/examples/face_tracking/animals.js"		// start with this example
+		"js/examples/own_projects/animals.js"		// start with this example
 
 	], function() {
 
